@@ -28,6 +28,10 @@
 
   <!-- Google Font -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 656ea85ae9e99574b5712f36a5b7a65b51ce3f09
 
 <head>
     <meta charset="utf-8">
@@ -56,7 +60,11 @@
 
     <!-- Google Font -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 53d63077f5ff0438cabb957dbaab73b831a32337
+>>>>>>> 656ea85ae9e99574b5712f36a5b7a65b51ce3f09
 </head>
 
 <body class="hold-transition skin-blue layout-boxed sidebar-mini">
